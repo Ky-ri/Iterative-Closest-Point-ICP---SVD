@@ -1,4 +1,5 @@
-# Iterative Closest Point(ICP) Singular Value Decomposition(SVD)
+# Iterative Closest Point(ICP)
+#Singular Value Decomposition(SVD)
 
 Algorith implemantation to register 2 point clouds using singular value decomposition
 
