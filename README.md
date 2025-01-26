@@ -48,6 +48,6 @@ python examples\example1.py --fix 'pointClouds\point_cloud_a.txt' --mov 'pointCl
 3: https://en.wikipedia.org/wiki/Point-set_registration<br>
 
 ![alt text](https://github.com/KoulisL/Iterative-Closest-Point-ICP---SVD/blob/master/GIF.gif)
-![Image]([/component-library/images/website.svg](https://github.com/KoulisL/Iterative-Closest-Point-ICP---SVD/blob/master/errorConv.png))
+![Image](https://github.com/KoulisL/Iterative-Closest-Point-ICP---SVD/blob/master/errorConv.png)
 ![alt text](https://github.com/KoulisL/Iterative-Closest-Point-ICP---SVD/blob/master/GIF2.gif)
 
